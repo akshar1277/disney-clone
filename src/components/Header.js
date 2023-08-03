@@ -107,7 +107,7 @@ function Header() {
               <span>ORIGINALS</span>
           </a>
           <a>
-              <img src="/images/movies-icon.svg"/>
+              <img src="/images/play-icon-white.png"/>
               <span>MOVIES</span>
           </a>
           <a>
